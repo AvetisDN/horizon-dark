@@ -2,9 +2,19 @@
     "name": "frontend-galaxy",
     "displayName": "Frontend Galaxy",
     "description": "Based on FrontendGalaxy paletee by Gogh project",
+    "publisher": "Avetis",
+    "author": {
+        "name": "AvetisDN",
+        "email": "avetisdn@gmail.com"
+    },
+    "icon": "icon/galaxy.png",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.62.0"
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AvetisDN/frontend-galaxy"
     },
     "categories": [
         "Themes"
@@ -12,9 +22,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Frontend Galaxy",
+                "label": "Gogh Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Frontend Galaxy-color-theme.json"
+                "path": "./themes/galaxy.json"
             }
         ]
     }
