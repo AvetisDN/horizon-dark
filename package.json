@@ -1,0 +1,21 @@
+{
+    "name": "frontend-galaxy",
+    "displayName": "Frontend Galaxy",
+    "description": "Based on FrontendGalaxy paletee by Gogh project",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Frontend Galaxy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Frontend Galaxy-color-theme.json"
+            }
+        ]
+    }
+}
