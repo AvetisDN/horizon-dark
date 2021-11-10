@@ -8,4 +8,4 @@ Based on FrontendGalaxy palette from Gogh project
 
 ## Screenshots
 ### Frontend Galaxy
-![Frontend Galaxy]()
+![Frontend Galaxy](https://i.imgur.com/ExB5nTq.png)
