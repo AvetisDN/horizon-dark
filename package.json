@@ -1,20 +1,20 @@
 {
-    "name": "frontend-galaxy",
-    "displayName": "Frontend Galaxy",
-    "description": "Based on FrontendGalaxy paletee by Gogh project",
+    "name": "horizon-dark",
+    "displayName": "HorizonDark",
+    "description": "Based on HorizonDark paletee by Gogh project",
     "publisher": "Avetis",
     "author": {
         "name": "AvetisDN",
         "email": "avetisdn@gmail.com"
     },
-    "icon": "icon/galaxy.png",
-    "version": "0.0.2",
+    "icon": "icon/horizon-dark.png",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.50.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/AvetisDN/frontend-galaxy"
+        "url": "https://github.com/AvetisDN/horizon-dark"
     },
     "categories": [
         "Themes"
@@ -22,9 +22,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Frontend Galaxy",
+                "label": "HorizonDark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/galaxy.json"
+                "path": "./themes/horizon-dark.json"
             }
         ]
     }

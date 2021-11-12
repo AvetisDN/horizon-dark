@@ -1,11 +1,11 @@
-# Frontend Galaxy Theme
+# Horizon Dark Theme
 
-Based on FrontendGalaxy palette from Gogh project
+Based on HorizonDark palette from Gogh project
 
 [Gogh project website](https://mayccoll.github.io/Gogh/)
 
 ---
 
 ## Screenshots
-### Frontend Galaxy
-![Frontend Galaxy](https://i.imgur.com/ExB5nTq.png)
+### Horizon Dark
+![Horizon Dark]()
