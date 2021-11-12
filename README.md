@@ -8,4 +8,4 @@ Based on HorizonDark palette from Gogh project
 
 ## Screenshots
 ### Horizon Dark
-![Horizon Dark]()
+![Horizon Dark](https://i.imgur.com/wXgj3yX.png)
